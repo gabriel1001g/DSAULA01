@@ -1,0 +1,14 @@
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\bin\Debug\net9.0\Aula01Variaveis.exe
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\bin\Debug\net9.0\Aula01Variaveis.deps.json
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\bin\Debug\net9.0\Aula01Variaveis.runtimeconfig.json
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\bin\Debug\net9.0\Aula01Variaveis.dll
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\bin\Debug\net9.0\Aula01Variaveis.pdb
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\Aula01Variaveis.AssemblyInfoInputs.cache
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\Aula01Variaveis.AssemblyInfo.cs
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\Aula01Variaveis.dll
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\refint\Aula01Variaveis.dll
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\Aula01Variaveis.pdb
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\Aula01Variaveis.genruntimeconfig.cache
+D:\2DS - Guilherme - Gabriel\DS\Aula1\Aula01Variaveis\obj\Debug\net9.0\ref\Aula01Variaveis.dll

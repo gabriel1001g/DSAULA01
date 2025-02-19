@@ -1,0 +1,14 @@
+D:\2DS - Guilherme - Gabriel\DS\Hello World\bin\Debug\net9.0\Hello World.exe
+D:\2DS - Guilherme - Gabriel\DS\Hello World\bin\Debug\net9.0\Hello World.deps.json
+D:\2DS - Guilherme - Gabriel\DS\Hello World\bin\Debug\net9.0\Hello World.runtimeconfig.json
+D:\2DS - Guilherme - Gabriel\DS\Hello World\bin\Debug\net9.0\Hello World.dll
+D:\2DS - Guilherme - Gabriel\DS\Hello World\bin\Debug\net9.0\Hello World.pdb
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\Hello World.AssemblyInfoInputs.cache
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\Hello World.AssemblyInfo.cs
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\Hello World.csproj.CoreCompileInputs.cache
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\Hello World.dll
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\refint\Hello World.dll
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\Hello World.pdb
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\Hello World.genruntimeconfig.cache
+D:\2DS - Guilherme - Gabriel\DS\Hello World\obj\Debug\net9.0\ref\Hello World.dll
