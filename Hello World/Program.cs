@@ -4,6 +4,8 @@ namespace HelloWorld
 {
     public class Program
     {
+        // comentario comentado depois da clonagem
+        
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
